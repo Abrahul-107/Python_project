@@ -1,6 +1,6 @@
 from bank_module import Bank
 from Modules.createAccount_module import createAccount
-from Modules.depositAmount_module import depositAmount
+from Python_project.Modules.depositAmount_module import depositAmount
 from Modules.withdrawAmount_module import withdrawAmount
 from Modules.checkBalance_module import checkBalance
 from Modules.transferMoney_module import transferMoney
